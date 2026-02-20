@@ -42,6 +42,16 @@
     </item>
     
     <item>
+      <title>Motion</title>
+      <link>http://localhost:1313/tags/motion/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
+      <guid>http://localhost:1313/tags/motion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>SAMD21</title>
       <link>http://localhost:1313/tags/samd21/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
@@ -87,6 +97,16 @@
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
       <guid>http://localhost:1313/tags/hand-gesture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Eye Gaze</title>
+      <link>http://localhost:1313/tags/eye-gaze/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
+      <guid>http://localhost:1313/tags/eye-gaze/</guid>
       <description></description>
       
     </item>
@@ -167,156 +187,6 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
       <guid>http://localhost:1313/tags/simulation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hri</title>
-      <link>http://localhost:1313/tags/hri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/hri/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Joint Kinematics</title>
-      <link>http://localhost:1313/tags/joint-kinematics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/joint-kinematics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mehcatronic Design</title>
-      <link>http://localhost:1313/tags/mehcatronic-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/mehcatronic-design/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Modelling</title>
-      <link>http://localhost:1313/tags/modelling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/modelling/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Motion</title>
-      <link>http://localhost:1313/tags/motion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/motion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pneumatic</title>
-      <link>http://localhost:1313/tags/pneumatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/pneumatic/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Prostheses</title>
-      <link>http://localhost:1313/tags/prostheses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/prostheses/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>R&amp;D</title>
-      <link>http://localhost:1313/tags/rd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/rd/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>http://localhost:1313/tags/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/robotics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sensor</title>
-      <link>http://localhost:1313/tags/sensor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/sensor/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Soft</title>
-      <link>http://localhost:1313/tags/soft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/soft/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Soft Robotics</title>
-      <link>http://localhost:1313/tags/soft-robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/soft-robotics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/teaching/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>VR</title>
-      <link>http://localhost:1313/tags/vr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/vr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>VR Unreal</title>
-      <link>http://localhost:1313/tags/vr-unreal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tians.yu7@gmail.com (Tianshi (Tim) Yu)</author>
-      <guid>http://localhost:1313/tags/vr-unreal/</guid>
       <description></description>
       
     </item>

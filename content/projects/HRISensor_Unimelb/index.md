@@ -19,5 +19,5 @@ showDate: false
 
 - Manufactured the sensor body by 3D printing using soft thermoplastic polyurethane (TPU) material.
 
-- Collaborated with colleagues at [Human Robotics Lab](https://blogs.unimelb.edu.au/human-robotics/). Results were published in the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). Paper is available [here](https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/5/342/files/2025/03/Mohohammadi-25-An_Information-Rich_and_Highly_Wearable_Soft_Sensor_System_for_Practical_Hand_Gesture_Interfaces.pdf).
+- Collaborated with colleagues at [Human Robotics Lab](https://blogs.unimelb.edu.au/human-robotics/). Results were published in the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). [[Paper](https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/5/342/files/2025/03/Mohohammadi-25-An_Information-Rich_and_Highly_Wearable_Soft_Sensor_System_for_Practical_Hand_Gesture_Interfaces.pdf)]
 

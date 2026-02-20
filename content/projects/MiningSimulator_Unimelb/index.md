@@ -10,9 +10,9 @@ showDate: false
 
 ## VR Platform for Studying Human–Autonomy Interaction
 
-- Developed a VR platform in Unreal Engine (C++) that simulates a human-operated vehicle interacting with autonomous vehicles. A demo is available at [https://github.com/tianshi-yu/HRVREP](https://github.com/tianshi-yu/HRVREP).
+- Developed a VR platform in Unreal Engine (C++) that simulates a human-operated vehicle interacting with autonomous vehicles. [[Demo Code](https://github.com/tianshi-yu/HRVREP)]
 
-- Developed a multi-threaded sensor data acquisition and logging system with software interfaces for the **VIVE Eye Tracker**, **Xsens** motion-capture system, and a standalone Unreal plugin for **Delsys EMG**. Plugin code is available at [https://github.com/tianshi-yu/HRVREP/tree/main/Plugins/DelsysTrignoEMG](https://github.com/tianshi-yu/HRVREP/tree/main/Plugins/DelsysTrignoEMG).
+- Developed a multi-threaded sensor data acquisition and logging system with software interfaces for the **VIVE Eye Tracker**, **Xsens** motion-capture system, and a standalone Unreal plugin for **Delsys EMG**. [[Plugin Code](https://github.com/tianshi-yu/HRVREP/tree/main/Plugins/DelsysTrignoEMG)]
 
 {{< youtubeLite id="EV_sVHGsjKo" label="Unreal demo" >}}
 
